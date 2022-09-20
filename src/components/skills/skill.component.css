@@ -1,0 +1,22 @@
+.skills{
+    width: 47%;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 0.5px solid gray ;
+    margin-bottom: 10px;
+}
+.skills > h6{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.box-skills{
+    width: 100%;
+    margin: 0px auto;
+    display: flex;
+    margin-bottom: 15px;
+}
+.box-skills > img{
+    width: 60px;
+    margin-right: 10px;
+}

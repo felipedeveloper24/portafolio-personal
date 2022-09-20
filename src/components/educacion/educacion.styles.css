@@ -1,0 +1,23 @@
+.educacion{
+    width: 47%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px auto;
+    border-bottom: 0.5px solid gray ;
+}
+.educacion > h1{
+    font-size: 25px;
+    
+}
+
+.educacion > div{
+    margin-top: 10px;
+}
+.educacion > div > h6{
+    text-decoration: underline;
+}
+
+.educacion > div:last-child{
+    margin-bottom: 10px;
+}

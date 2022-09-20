@@ -1,0 +1,49 @@
+.descripcion{
+    width: 100%;
+    display: flex;
+    min-height: 200px;
+    
+}
+
+.box-imagen{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.box-imagen > img{
+    width: 230px;
+    border-radius: 120px;
+}
+.box-descripcion{
+    width: 70%;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 0.5px solid gray ;
+    margin-bottom: 20px;
+}
+.box-descripcion > h2{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.box-descripcion > h3{
+    font-size: 27px;
+    margin-left: 20px;
+}
+.box-descripcion > p{
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 10px;
+    width: 80%;
+}
+.box-redes{
+    width: 80%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.icon{
+    width: 50px;
+    margin-right: 10px;
+}
