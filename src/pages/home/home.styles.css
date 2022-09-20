@@ -5,9 +5,11 @@
 .main-container{
     width: 100%;
     display: flex;
-    flex-direction: column;;
-    background-color: #F15B3B;
-    color: rgb(88, 85, 85);
+    flex-direction: column;
+    /*background-color: #F15B3B;*/
+    background-color: #0f172a;
+    /* color: rgb(88, 85, 85); */
+    color: white;
 }
 .box{
     width: 100%;

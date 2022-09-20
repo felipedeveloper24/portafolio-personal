@@ -17,8 +17,8 @@ const Descripcion = ()=>{
                    y de backend (NodeJS, MYSQL, Express, PrysmaDB), todo esto para llevar a cabo mi proyecto de titulación (Tesis).
                 </p>
                 <div className="box-redes">
-                    <a href="https://google.cl"><img className="icon" src={linkedin} alt="hola" /></a>
-                    <a href="https://google.cl"><img src={github} className="icon" alt="hola2" /></a>
+                    <a href="https://www.linkedin.com/in/felipe-opazo-63265a17b/"><img className="icon" src={linkedin} alt="hola" /></a>
+                    <a href="https://github.com/felipedeveloper24"><img src={github} className="icon" alt="hola2" /></a>
                   
                 </div>
             </div>
