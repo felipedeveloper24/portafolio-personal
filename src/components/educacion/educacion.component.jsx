@@ -19,12 +19,6 @@ const Educacion = ()=>{
                 <cite>2014-2017</cite>
             </div>
             <div className="info">
-                <h6>Ingeniería Civil Informática</h6>
-                <cite>Universidad Católica de la Santísima Concepción</cite>
-                <br />
-                <cite>2018</cite>
-            </div>
-            <div className="info">
                 <h6>Ingeniería de Ejecución en Computación e Informática</h6>
                 <cite>Universidad del Bio - Bio</cite>
                 <br />
