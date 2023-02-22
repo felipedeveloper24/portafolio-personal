@@ -1,15 +1,14 @@
 import React from "react";
 
 import git from "../../assets/git.png";
-import docker from "../../assets/docker.png";
 import html from "../../assets/html-5.png";
 import css from "../../assets/css.png";
 import mysql from "../../assets/mysql.png";
-import c from "../../assets/letter-c.png";
 import java from "../../assets/java.png";
 import php from "../../assets/php.png";
 import riact from "../../assets/atom.png";
 import node from "../../assets/node.png";
+import laravel from "../../assets/laravel.png"
 import "./skill.component.css";
 import ConstructionIcon from '@mui/icons-material/Construction';
 const Skills = ()=>{
@@ -25,8 +24,8 @@ const Skills = ()=>{
                 <img src={mysql} alt="" />
                 <img src={git} alt="" />
                 <img src={java} alt="" />
-                <img src={c} alt="" />
-                <img src={docker} alt="" />
+                <img src={laravel} alt="" />
+               
             </div>
             
         </div>

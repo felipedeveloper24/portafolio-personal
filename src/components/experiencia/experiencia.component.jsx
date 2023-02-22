@@ -16,6 +16,19 @@ const Experiencia = ()=>{
                 <cite></cite>
                
             </div>
+            <div>
+                <h6>Práctica profesional 2</h6>
+                <cite>Intra LTDA (Septiembre - Diciembre (2022))</cite>
+               
+                <ul>
+                    <li>Desarrollo de prototipo de aplicación para citar trabajadores vía Whatsapp</li>
+                    <li>Frontend: Se utilizó React Js con Material UI y Bootstrap 5</li>
+                    <li>Backend: Se contruyó una API Rest con Laravel 9 y MYSQL</li>
+                    <li>API Whatsapp Meta: Se utilizó para el envío de mensajes a través de Whatsapp</li>
+                </ul>
+                <cite></cite>
+               
+            </div>
         </div>
     );
 };

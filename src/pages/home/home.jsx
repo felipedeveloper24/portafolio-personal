@@ -12,8 +12,9 @@ const Home = ()=>{
            <Header/>
            <Descripcion/>
            <Skills/>
-           <Educacion/>
            <Experiencia/>
+           <Educacion/>
+         
    
         </div>
     );

@@ -13,7 +13,7 @@ const Descripcion = ()=>{
                 <h2>Felipe Opazo Córdova</h2>
                 <h3>Estudiante de Ingeniería de Ejecución en Computación e Informática, Universidad del Bio-Bio</h3>
                 <p>
-                    Actualmente me encuentro estudiando en mayor profundidad sobre tecnologías de frontend (React, Material UI, Bootstrap 4)
+                    Actualmente me encuentro estudiando en mayor profundidad sobre tecnologías de frontend (React, Material UI, Bootstrap 5)
                    y de backend (NodeJS, MYSQL, Express, PrysmaDB), todo esto para llevar a cabo mi proyecto de titulación (Tesis).
                 </p>
                 <div className="box-redes">
